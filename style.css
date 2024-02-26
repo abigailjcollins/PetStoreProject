@@ -1,16 +1,3 @@
-.about-section{
-    /*background-image: url(./louis-philippe-poitras-sJgucUmcaKE-unsplash.jpg); */
-    background-position: 0%;
-    background-size: cover;
-
-}
-
-
-
-
-
-
-
 form {
     background-color: lightblue;
     background-image: url(./jaroslaw-slodkiewicz-SDIIfq6nhFU-unsplash.jpg);
@@ -26,4 +13,8 @@ footer {
     background-color: lightblue;
     color: black;
     margin: 20px;
+  };
+
+  .marketimg{
+    width: 50%;
   }
