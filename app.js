@@ -1,24 +1,8 @@
 var shop = [
-    // {
-    //     title: 'Cats',
-    //     image: './cats.jpg',
-    //     price: '60',
-    //     description: ''
-        
-    // },
-
-    // {
-    //     title: 'Dogs',
-    //     image: './dogs2.jpg',
-    //     price: '80',
-    //     description: ''
-        
-    // },
-
     {
-        title: 'Hamsters',
-        image: './hamster1.jpg',
-        price: '25',
+        title: 'Birds',
+        image: './birds.jpg',
+        price: '40',
         description: ''
         
     },
