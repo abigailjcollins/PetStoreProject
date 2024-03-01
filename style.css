@@ -18,3 +18,10 @@ footer {
   .marketimg{
     width: 50%;
   }
+
+  .carousel-control-next-icon {
+    background-color: lightblue !important;
+ }
+   .carousel-control-prev-icon {
+    background-color: lightblue !important;
+ }
