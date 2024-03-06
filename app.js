@@ -10,7 +10,7 @@ var shop = [
     
     {
         title: 'Fish',
-        image: './fish1.jpg',
+        image: './fish2.jpg',
         price: '20',
         description: ''
         

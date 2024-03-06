@@ -25,3 +25,10 @@ footer {
    .carousel-control-prev-icon {
     background-color: lightblue !important;
  }
+
+img{
+/* max-width: 25%;
+/* max-height: 15%; */
+float: left; */
+
+}
